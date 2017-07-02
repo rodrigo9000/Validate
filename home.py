@@ -8,5 +8,6 @@ def window():
     print('PROBLEM 3')
     
     x = 'NEW'
+    print('USELESS')
     print(x)
 window()
