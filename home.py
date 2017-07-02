@@ -4,7 +4,8 @@ from PyQt5 import QtWidgets
 
 def window():
     print('PROBLEM')
-    print('PROBLEM 2')
+    
+    print('PROBLEM 3')
 
 
 window()
