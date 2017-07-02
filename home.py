@@ -7,6 +7,7 @@ def window():
     
     print('PROBLEM 3')
     
-    x = 'NEW STRING'
+    x = 'NEW'
+    print('USELESS')
     print(x)
 window()
